@@ -110,10 +110,3 @@ Vous avez des idées ou des stratégies à partager ?
 
 **Contact** : Pour toute question, ouvrez une issue ou contactez-nous via [**Goat Model**](https://t.me/+V9PkpLcSUUwzMGFk).
 
----
-
-### Installation
-Aucune installation requise ! Ce guide est un document statique. Téléchargez-le ou consultez-le directement sur GitHub.
-
-### Licence
-Ce contenu est sous licence Creative Commons Attribution 4.0. Utilisez-le librement avec attribution.
